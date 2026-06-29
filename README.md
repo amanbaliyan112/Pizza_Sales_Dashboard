@@ -41,3 +41,16 @@ The dataset contains one year of pizza sales transactions, including order date,
 
 ## Dashboard
 <img width="890" height="499" alt="picture_pizza_sales_dashboard" src="https://github.com/user-attachments/assets/b2cccdb8-46cc-4d67-83f9-45fd9f2f327d" />
+
+## Project Insights
+
+- Friday and weekend evenings record the highest number of customer orders.
+- July generates the highest number of orders, while December records the lowest sales performance.
+- The Classic pizza category contributes the highest share of total revenue and total orders.
+- Large-sized pizzas account for the highest percentage of overall sales compared to other sizes.
+- The Classic Deluxe Pizza and Barbecue Chicken Pizza are among the best-selling pizzas by revenue and quantity.
+- The Brie Carre Pizza and Mediterranean Pizza are the lowest-performing products in terms of revenue and orders.
+
+## Final Conclusion
+
+The Pizza Sales Dashboard provides valuable insights into customer purchasing behavior and overall business performance. The analysis shows that sales peak during weekends and the month of July, while the Classic category and Large-sized pizzas contribute the highest revenue. Focusing promotional campaigns on peak sales periods, maintaining inventory for best-selling pizzas, and improving or replacing low-performing menu items can help increase revenue, enhance customer satisfaction, and support better business decision-making.
